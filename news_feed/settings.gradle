@@ -1,0 +1,3 @@
+rootProject.name='news_feed'
+include ':androidApp'
+include ':shared'

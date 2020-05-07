@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">iNews</string>
+    <string name="news_title">News Title</string>
+    <string name="news_descr">News Description</string>
+    <string name="news_image_description">News image</string>
+    <string name="news_hint">Image</string>
+</resources>

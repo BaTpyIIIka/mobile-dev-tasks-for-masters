@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp" >
+
+    <ImageView
+        android:id="@+id/news_image_view"
+        android:layout_alignParentStart="true"
+        
+        android:layout_marginTop="16dp"
+        android:layout_width="72dp"
+        android:layout_height="72dp"
+        android:contentDescription="@string/news_image_description"
+        app:srcCompat="@mipmap/ic_my_totem_animal_placeholder_round" />
+
+    <TextView
+        android:id="@+id/news_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="16dp"
+        
+        android:layout_marginTop="16dp"
+        android:layout_toEndOf="@+id/news_image_view"
+        
+        android:text="@string/news_title" />
+
+    <TextView
+        android:id="@+id/news_text_description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        
+        android:layout_toEndOf="@+id/news_image_view"
+        android:layout_below="@id/news_title"
+        android:layout_marginTop="16dp"
+        android:layout_marginStart="16dp"
+        
+        android:autofillHints="@string/news_hint"
+        android:ems="10"
+        android:singleLine="false"
+        android:text="@string/news_descr" />
+
+    <TextView
+        android:id="@+id/news_author"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        
+        android:layout_toEndOf="@+id/news_image_view"
+        android:layout_below="@id/news_text_description"
+        android:layout_marginStart="16dp"
+        
+        android:layout_marginTop="16dp"/>
+
+    <TextView
+        android:id="@+id/news_published_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        
+        android:layout_toEndOf="@+id/news_image_view"
+        android:layout_below="@id/news_author"
+        android:layout_marginStart="16dp"
+        
+        android:layout_marginTop="16dp"/>
+</RelativeLayout>
