@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>4196462769-jp8u19pfc9m6cuv04lttae3cgt2a0jla.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.4196462769-jp8u19pfc9m6cuv04lttae3cgt2a0jla</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>4196462769-vjdl5b4l9lb1era3878b9d5dodqalpec.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB0Tv8wTGtSZqLugUxT18nhFHMsqjflnro</string>
+	<key>GCM_SENDER_ID</key>
+	<string>4196462769</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>dogs.nyashki.com.dogsClientApplication</string>
+	<key>PROJECT_ID</key>
+	<string>nyashki-dogs-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nyashki-dogs-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:4196462769:ios:e1b282d680549660bc3290</string>
+	<key>DATABASE_URL</key>
+	<string>https://nyashki-dogs-app.firebaseio.com</string>
+</dict>
+</plist>

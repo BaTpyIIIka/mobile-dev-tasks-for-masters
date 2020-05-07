@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "4196462769",
+    "firebase_url": "https://nyashki-dogs-app.firebaseio.com",
+    "project_id": "nyashki-dogs-app",
+    "storage_bucket": "nyashki-dogs-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4196462769:android:a2bcf7a071815830bc3290",
+        "android_client_info": {
+          "package_name": "dogs.nyashki.com.dogs_client_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4196462769-vjdl5b4l9lb1era3878b9d5dodqalpec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dogs.nyashki.com.dogs_client_application",
+            "certificate_hash": "b55f1624d62f06564207c2737395bbd3e2593d97"
+          }
+        },
+        {
+          "client_id": "4196462769-tcul0s0jbcr1avhfuv4buiijd7st60eg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg77xVFMgQbTYyWFGXAEQAAJk4CluO7dU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4196462769-tcul0s0jbcr1avhfuv4buiijd7st60eg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "4196462769-jp8u19pfc9m6cuv04lttae3cgt2a0jla.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dogs.nyashki.com.dogsClientApplication"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4196462769:android:9451527215f44b23bc3290",
+        "android_client_info": {
+          "package_name": "dogs.nyashki.com.dogs_client_application.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4196462769-47l1t5js5idut5d7kg92avh2448qpdmc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dogs.nyashki.com.dogs_client_application.debug",
+            "certificate_hash": "b55f1624d62f06564207c2737395bbd3e2593d97"
+          }
+        },
+        {
+          "client_id": "4196462769-tcul0s0jbcr1avhfuv4buiijd7st60eg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg77xVFMgQbTYyWFGXAEQAAJk4CluO7dU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4196462769-tcul0s0jbcr1avhfuv4buiijd7st60eg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "4196462769-jp8u19pfc9m6cuv04lttae3cgt2a0jla.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dogs.nyashki.com.dogsClientApplication"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
