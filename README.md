@@ -1,1 +1,1 @@
-# mobile-dev-team-ask-for-masters
+# mobile-dev-tasks-for-masters
